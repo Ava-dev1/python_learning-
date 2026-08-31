@@ -1,4 +1,4 @@
-# Input() = A function that prompts the user to     # enter data and returns entered data as a string
+# Input() = A function that prompts the user to    # enter data and returns entered data as a string
 
 name = input("What is your name?: ")
 age = input("How old are you?: ")
