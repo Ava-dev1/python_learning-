@@ -1,0 +1,39 @@
+#Variables are containers for values. #(string ,interger ,float ,boolean)
+
+# strings
+first_name = "Ava"
+animal = "Huskies"
+email = "Ava123@fake.com"
+
+# f-string examples for strings
+print(f"Hello {first_name}")
+print(f"You like {animal}") 
+print(f"Your email is: {email}")
+
+# intergers
+age = 13
+quantity = 6
+num_of_students = 25
+
+# f-string examples for intergers
+print(f"You are {age} years old")
+print(f"You are buying {quantity} items")
+print(f"This class has {num_of_students} students")
+
+# floats
+price = 10.99
+Gpa = 3.3
+Distance = 4.6
+
+# f-string examples for floats
+print(f"This item is ${price}")
+print(f"Your GPA is {Gpa}")
+print(f"Well done you ran {Distance}km")
+
+# boolean
+is_student = True
+is_online = False
+
+# f-string example for boolean
+print(f"Are you a student?: {is_student}")
+print(f"Are you online?: {is_online}")
