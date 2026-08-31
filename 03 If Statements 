@@ -1,4 +1,6 @@
 #Typecasting = The process of converting a variable #from one data type to another 
 
 name = "Ava"
-age = 
+age = 25
+gpa = 3.2
+is_student = True
