@@ -4,3 +4,5 @@ name = "Ava"
 age = 25
 gpa = 3.2
 is_student = True 
+
+# print(type(  )) put the name of the variable and run the code to see what the variable is (ie: str, int, float, bool.)
