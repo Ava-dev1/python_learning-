@@ -10,4 +10,4 @@ is_student = True
 
 # To typecast a variable use the code:
 # variable = data type(variable) 
-# print(variable)
+# print(variable) 
