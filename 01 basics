@@ -1,1 +1,3 @@
-print("I love huskies!")
+#this is my first python program 
+print("I love animals")
+print("Huskies are my favorite")
