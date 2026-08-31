@@ -9,5 +9,7 @@ is_student = True
 #run the code to see what the variable is (ie: str, #int, float, bool.)
 
 # To typecast a variable use the code:
-# variable = data type(variable) 
-# print(variable) 
+# variable = data type(same variable) 
+# print(same variable) 
+
+
