@@ -11,7 +11,7 @@ print(f"You like {animal}")
 print(f"Your email is: {email}")
 
 # intergers
-age = 13
+age = 25
 quantity = 6
 num_of_students = 25
 
